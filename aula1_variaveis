@@ -1,0 +1,12 @@
+#variaveis são espaços na memória que servem para amenizar valores
+
+#Podemos definir variaveis com o nome dela, seguido pelo
+#sinal de igual, que siguinfica "atribuir"e depois pelo valor.
+#nome = "savio"<- Crie uma variavel nome que recebe o valor"savio"
+
+nome = "Arthur"
+salario = 7000.00
+dias_trabalhados = 25
+print("O funcionario é",nome)
+print("Ele trabalhou",dias_trabalhados,"dias")
+print("O salario é",salario)
